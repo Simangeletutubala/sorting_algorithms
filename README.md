@@ -29,9 +29,6 @@ Please use the "short" notation (don't use constants). Example: `O(nk)` or `O(wn
 * definitions of `kind_t`, `card_t`, `deck_node_t` for [`deck.h`](./deck.h)
 * [`0-main.c`](./tests/0-main.c) [`1-main.c`](./tests/1-main.c) [`2-main.c`](./tests/2-main.c) [`3-main.c`](./tests/3-main.c) [`100-main.c`](./tests/100-main.c) [`101-main.c`](./tests/101-main.c) [`102-main.c`](./tests/102-main.c) [`103-main.c`](./tests/103-main.c) [`104-main.c`](./tests/104-main.c) [`105-main.c`](./tests/105-main.c) [`106-main.c`](./tests/106-main.c) [`107-main.c`](./tests/107-main.c) [`1000-main.c`](./tests/1000-main.c)
 
-### Note
-While found in a separate repository, this project is part of [`holbertonschool-low_level_programming`](https://github.com/allelomorph/holbertonschool-low_level_programming).
-
 ---
 
 ## Mandatory Tasks
